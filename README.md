@@ -1,8 +1,4 @@
-# TodoAppRealm
-
-## A todolist app to keep track of all the tasks.
-
-**Realm** is used as a backend database to store and retrieve data
+# TodoAppRealm is a ToDo app to keep track of the tasks. **Realm** is used as a backend database to store and retrieve data
 
 ## Setup 
 1. Install pods:
